@@ -11,4 +11,12 @@
 - [浏览器主页](https://suda.weikecc.top/)
 - [YunMusic](https://music.163.com/#/user/home?id=3267730015)
 
+## 吹牛逼凑字数
+- 🔭 I’m currently working on Tencent
+- 🌱 I’m currently learning CPP & JAVA
+- 🤔 I’m looking for help with Github
+- 💬 Ask me about life
+- 📫 How to reach me: None
+- 😄 Pronouns: Joe
+- ⚡ Fun fact: The girl I like is He Ziqing
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xixi-cmd)](https://github.com/anuraghazra/github-readme-stats)

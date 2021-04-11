@@ -1,8 +1,3 @@
-<style>
-  a {
-    color: #999;
-  }
-</style>
 ## About Me
 - 🔴你好，我是ChenShang,我来自江西省的一个小村子。我今年14了。
 - 🟢在2年前，我初次接触编程，在那之后的2个月，我学习了VBScript，Python的turtle类库,request类库，又过了1年，我学习了C++和JAVA，虽然我知道这俩很容易掉头发，但是我还是坚持学了下去。
